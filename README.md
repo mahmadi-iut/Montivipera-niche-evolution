@@ -1,4 +1,4 @@
-# Montivipera_niche_evolution
+# Montivipera-niche-evolution
 
 ##################
  Description of details relevant to the data package
